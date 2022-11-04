@@ -1,0 +1,4 @@
+       Watson assistant service 
+
+
+https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-e170adb5-0c58-49ce-8528-cc8765e80076%3A%3A5ccfd5a3-f72e-460c-a22e-c43688d93995&integrationID=aba84fe7-01aa-4709-a1d6-4d42fd018de4&region=au-syd&serviceInstanceID=e170adb5-0c58-49ce-8528-cc8765e80076
